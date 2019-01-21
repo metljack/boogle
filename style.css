@@ -1,0 +1,47 @@
+.logo {
+  margin: auto;
+    width: 50%;
+    text-align: center;
+    padding: 70px 0;
+margin-top: 25vh;
+    height: 50vh;
+  
+}
+#input{
+  width: 195px;
+}
+img {
+  width:300px;
+}
+
+.signin{
+    position: absolute;
+  top: 30px;
+  right: 150px;
+  color: blue;
+  width: 50px;
+  height: 20px;
+  text-align: center;
+}
+  .signup {
+      position: absolute;
+    top: 30px;
+    right: 50px;
+    color: blue;
+    width: 80px;
+    height: 20px;
+    text-align: center;
+
+}
+#Iskanje{
+  padding-right: 5px;
+  }
+#klik{
+  padding-left: 5px;
+}
+footer{
+  width: 100vw;
+  text-align: left;
+  background-color: lightgray;
+  height: 2vw
+}
